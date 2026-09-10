@@ -112,7 +112,6 @@ Retrieval detail (inside `retrieve_node`, via `hybrid_search`):
 | 7 | Open-Source Reranking | CrossEncoder reranks top hybrid candidates |
 | 8 | LangGraph Agent Construction | Defines `RAGState`, three nodes, compiles the graph |
 | 9 | Running the Graph | `.invoke()` and `.stream()` examples, batch test queries |
-| 10 | Extensions | Ideas for stronger models, memory, branching, production hardening |
 
 ---
 

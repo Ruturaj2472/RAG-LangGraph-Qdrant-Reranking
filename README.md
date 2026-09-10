@@ -204,6 +204,4 @@ Stream intermediate state after each node (useful for debugging):
 
 ---
 
-## License
 
-Add your preferred license here (e.g., MIT) before publishing.
